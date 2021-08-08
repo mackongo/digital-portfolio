@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Ally Makongo",
+    "occupation": "Software Developer",
+    "description": "I develop digital products for human beings",
+    "image": "profile.jpg",
+    "bio": "Hi there! I am Ally Makongo! I'm a self taught developer! Started solidifying on software development after finishing college in 2011 at University of Dar es salaam. I have worked as Software Architect for big brands such as Millicom International Cellular and decided to go solo in 2016. I have managed to build platform for big brands such as ABInBev and others",
+    "contactmessage": "Get in touch with me so i can build your dream app!",
+    "email": "mackongo@gmail.com",
+    "phone": "+255 757 524 906",
+    "address": {
+      "street": "Acacia Estates Kinondoni Road",
+      "city": "Dar es salaam",
+      "state": "Kinondoni",
+      "zip": "11919"
+    },
+    "website": "https://mindtapcreative.co.tz",
+    "resumedownload": "https://mindtapcreative.co.tz/cv2021.pdf",
+    "social": [{
+        "name": "twitter",
+        "url": "https://twitter.com/makongoally",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ally-makongo-b26885211/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/makongo.dev",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mackongo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [{
+      "school": "University of Dar es salaam",
+      "degree": "Bachelor's Degree, Computer Science",
+      "graduated": "July 2012",
+      "description": "Graduated"
+    }],
+    "work": [{
+      "company": "Mindtap (T) Limited",
+      "title": "Co-Founder",
+      "years": "May 2019 - Present",
+      "description": "Building digital products for different brands including web and mobile applications."
+    }],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Nodes JS",
+        "level": "98%"
+      },
+      {
+        "name": "Express",
+        "level": "98%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "98%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "89%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      },
+      {
+        "name": "Android Apps",
+        "level": "99%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "eBook Mobile App",
+        "category": "",
+        "image": "mybook.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "eBook Mobile App",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "eBook Mobile App",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Ally is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
+        "user": "Nicodemus Msuya"
+      },
+      {
+        "text": "Ally is eager to know and learn from his friends, he is one of the hard working guys i have ever met",
+        "user": "Abdul Nyoka"
+      }
+    ]
+  }
+}
